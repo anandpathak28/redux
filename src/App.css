@@ -24,6 +24,46 @@
   color: white;
 }
 
+.btn-wrapper button {
+  border: 0px;
+  background-color: red;
+  border-radius: 2px;
+  padding: 10px;
+  color: white;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+.disco {
+  margin-top: 40px;
+}
+
+
+.img-wrapper img {
+  width: 100px;
+}
+
+.cart-wrapper {
+  height: 150px;
+  width: 500px;
+  border: 2px solid blue;
+  margin-left: 10px;
+}
+
+.item {
+  float: left;
+  width: 140px;
+  height: 70px;
+  padding: 10px;
+}
+
+.addToCart img {
+  width: 80px;
+  position: absolute;
+  top: 1%;
+  right: 1%;
+}
+
 .App-link {
   color: #61dafb;
 }
